@@ -1,0 +1,5 @@
+*.zip
+*.gz
+*.lnk
+.wsl_venv/
+41_training_image/
