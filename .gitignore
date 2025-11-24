@@ -1,5 +1,8 @@
 *.zip
 *.gz
 *.lnk
-.wsl_venv/
-41_training_image/
+ml2025f/*/*/
+*dataset*/
+runs/
+CardiacSegV2/
+YOLO/
